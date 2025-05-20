@@ -2,6 +2,6 @@
 
 This is a challenge that i got from this repository:
 
-Link: https://github.com/itau/desafio-backend
-Imagem: https://exemplo.com/capa.jpg
+Link: [Itau Challenge](https://github.com/feltex/desafio-itau-backend)
 
+Image: ![Logo do Google Play](https://play-lh.googleusercontent.com/gRcutACE4XkEHmxcbUdOehxpTbp_LjmwJ6qIEbqfD34oh9feTNhTnlDgf97HEZ9eGKY=w240-h480)
